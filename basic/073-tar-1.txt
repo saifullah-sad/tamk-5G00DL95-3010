@@ -1,0 +1,12 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "7.3 Tar 1"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+cd ~
+tar -czf package.tar.gz tmp
+
+# End of file

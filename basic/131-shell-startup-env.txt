@@ -1,0 +1,24 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "13.1 The Shell startup environment"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+# Two variables:
+# 1) PATH: search path for commands. Example usage:
+#    export PATH="$HOME/bin:$PATH"
+# 2) HISTSIZE: number of commands kept in memory history.
+#    export HISTSIZE=5000
+#
+# Make permanent:
+# Put the export lines into a startup file:
+# - For interactive shells: ~/.bashrc
+# - For login shells: ~/.profile (or ~/.bash_profile, depending on system)
+#
+# Example (append to ~/.bashrc):
+# export PATH="$HOME/bin:$PATH"
+# export HISTSIZE=5000
+
+# End of file

@@ -1,0 +1,18 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "7.4 Tar 2"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+# Command:
+tar -tzf package.tar.gz
+tmp/
+# Output (paste your actual output here after running the command):
+# tmp/
+# tmp/dir1/
+# tmp/dir1/1.lst
+# ...
+
+# End of file

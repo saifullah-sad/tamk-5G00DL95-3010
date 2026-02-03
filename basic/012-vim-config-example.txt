@@ -1,0 +1,23 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "1.2 Vim configuration example"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+set ruler          " show cursor position in the status line
+set nojoinspaces    " do not insert two spaces after a period when joining lines
+set showcmd         " show (partial) command in the last line of the screen
+set showmatch       " briefly jump to matching bracket/paren
+set incsearch       " show search matches as you type the pattern
+set ignorecase      " ignore case in search patterns
+set smartcase       " override ignorecase if pattern contains uppercase
+set nobackup        " do not keep backup files (~) when writing
+set autoindent      " copy indent from current line to the next line
+set shiftwidth=4    " number of spaces for each autoindent step
+set softtabstop=4   " number of spaces a <Tab> counts for while editing
+set paste           " paste mode: avoid autoindent and mappings during paste
+set nolist          " do not display listchars (tabs/trailing markers)
+
+# End of file

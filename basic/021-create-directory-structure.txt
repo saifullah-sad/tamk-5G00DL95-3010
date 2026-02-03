@@ -1,0 +1,15 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "2.1 Create directory structure"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+cd ~/tmp
+mkdir -p some/dir1
+mkdir -p some/dir2/doc1
+mkdir -p some/dir2/doc2/test/more
+mkdir -p some/dir3/html
+
+# End of file

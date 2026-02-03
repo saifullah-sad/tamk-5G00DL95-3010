@@ -1,0 +1,35 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "2.3 The cp command 1"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+# Copy/paste exact option definitions from your system man page:
+# (This avoids version mismatch.)
+       -p     same as --preserve=mode,ownership,timestamps
+
+       --preserve[=ATTR_LIST]
+              preserve the specified attributes
+
+       --no-preserve=ATTR_LIST
+              don't preserve the specified attributes
+
+       --parents
+              use full source file name under DIRECTORY
+
+       -R, -r, --recursive
+              copy directories recursively
+
+       -u     equivalent to --update[=older].  See below
+
+       -v, --verbose
+              explain what is being done
+
+       --keep-directory-symlink
+              follow existing symlinks to directories
+
+# Paste the exact quoted definitions below (replace this comment).
+
+# End of file

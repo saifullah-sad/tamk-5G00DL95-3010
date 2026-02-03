@@ -1,0 +1,14 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "4.5 Redirection 5"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+# "< /var/log/dpkg.log" redirects the file to stdin of "less".
+# "less" reads from stdin when no filename is given.
+# Result: you view the file content in less without naming the file as an argument.
+< /var/log/dpkg.log less
+
+# End of file

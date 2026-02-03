@@ -1,0 +1,11 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "10.4 Grep 4"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+grep -E "[[:space:]][0-9]-[56][0-9]{3}$" data.txt
+
+# End of file

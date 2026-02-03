@@ -1,0 +1,11 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "3.2 File glob 2"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+ls *[0-9]*.l[sS][tT]* *[0-9]*.l[oO][gG]*
+
+# End of file

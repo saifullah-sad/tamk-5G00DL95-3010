@@ -1,0 +1,11 @@
+# Author: MD SAIFULLAH MANSURE SAD <saifullah04m@gmail.com>
+# Date: 2026-02-01
+#
+# Answer to exercise "8.1 Extract information"
+#
+# Anything with '#' is a comment.
+# The answer appears in line(s) of their own.
+
+date | awk "{print \$6}"
+
+# End of file
