@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "1.1 Vim configuration location"
+#
+
+Vim is located in ~/.vimrc
+
+# End of file
+

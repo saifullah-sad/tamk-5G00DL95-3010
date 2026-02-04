@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "3.5 File glob 5"
+#
+It shows how can you find all the suspicious files.
+ls | grep -E '[^A-Za-z0-9_.-]'
+#
+# End of file

@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "3.6 File glob 6"
+#
+You can find files that do not have a number in the second or the fourth letter.
+ls ?[^0-9]?[^0-9]*
+#
+# End of files

@@ -1,0 +1,14 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "2.3 The cp command 1"
+#
+-v, --verbose    explain what is being done
+
+-u     equivalent to --update[=older].  See below
+
+-p     same as --preserve=mode,ownership,timestamps
+
+-R, -r, --recursive    copy directories recursively
+#
+# End of file

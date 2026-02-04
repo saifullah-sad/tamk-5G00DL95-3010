@@ -1,0 +1,21 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "1.2 Vim configuration example"
+#
+set ruler          " show cursor position in the status line
+set nojoinspaces   " use one space, not two, after a period when joining lines
+set showcmd        " displays incomplete commands in the status line
+set showmatch      " briefly jumps to matching bracket or parenthesis
+set incsearch      " shows search mmatches while typing the search pattern
+set ignorecase     " search ignores case differences by default
+set smartcase      " search becomes case-sensitive if uppercase letters used
+set nobackup       " do not create backup files after editing
+set autoindent     " new lines keep the indentation of the previous line
+set shiftwidth=4   " number of spaces used for each indentation level
+set softtabstop=4  " number of spaces a Tab feels like while editing
+set paste          " paste mode disables auto-indent and formatting
+set nolist         " do not display hidden characters like tabs or line ends
+
+# End of file
+

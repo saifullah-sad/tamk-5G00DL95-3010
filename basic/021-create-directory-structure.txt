@@ -1,0 +1,16 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "2.1 Create directory structure"
+#
+First you would get into your wsl terminal or your linux terminal. Then, you would create a temp file if you don't have it already.
+Then you can just run the command listed below:
+mkdir -p some/dir1 some/dir2/doc1 some/dir2/doc2/test/more some/dir3/html
+this wouldn't work if you didn't have -p. The -p stands for parent. This would make all the directories.
+You can check if it worked by going to the parent directory "some" and running the command:
+ls -R
+or with the other command:
+tree
+
+# End of file
+

@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "3.2 File glob 2"
+#
+You can use this command to list all the files in the directory
+
+ls *[0-9]*.l[os][gt]*
+
+# End of file

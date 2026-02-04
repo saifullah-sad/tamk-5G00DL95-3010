@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "2.4 The cp command 2"
+#
+mkdir ~/tmp
+cp -r ~/tmp ~/tmp.backup
+
+# End of file

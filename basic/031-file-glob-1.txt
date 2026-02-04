@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "3.1 File glob 1"
+#
+ls [A-Z}*
+
+# End of file

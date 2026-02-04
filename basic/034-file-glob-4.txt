@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-04
+#
+# Answer to exercise "3.4 File glob 4"
+#
+You can find files with all possible spelling of *.jpg, *.Jpg, *.JPG
+ls *.[jJ][pP][gG]
+#
+# End of file
