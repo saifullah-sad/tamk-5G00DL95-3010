@@ -1,0 +1,15 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "5.1 Pipe 1"
+#
+"cat file | ls > file"
+   ls does not read from stdin, so the output of cat is ignored.
+   "> file" truncates file before ls runs, which may destroy its contents.
+
+"ls | less > cat file"
+   "less > cat file" is syntactically wrong.
+   The shell treats "cat" as a filename for redirection, and "file" as an argument,
+   so the pipeline does not work as intended.
+#
+# End of file

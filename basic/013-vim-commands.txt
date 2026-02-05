@@ -16,4 +16,3 @@ Copying a paragraph      = yap
 Turn on/off line numbers = :set number / :set nonumber
 
 # End of file
-

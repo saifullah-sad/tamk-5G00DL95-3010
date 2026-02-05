@@ -7,4 +7,3 @@
 Vim is located in ~/.vimrc
 
 # End of file
-

@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "4.4 Redirection 4"
+#
+A and B both redirect stderr (2) to error.log.
+In C, "cat < qwerty" tries to open file "qwerty" for stdin before cat runs, so the error occurs in the shell, not in cat, and is not redirected.
+#
+# End of file

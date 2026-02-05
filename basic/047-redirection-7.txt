@@ -1,0 +1,11 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "4.7 Redirection 7"
+#
+"<< EOF" creates a here-document. The text "hello" is sent to stdin of cat.
+"cat file" reads both the file "file" and stdin.
+"1> file2" redirects stdout into file2.
+So file2 contains the contents of "file" followed by "hello".
+#
+# End of file

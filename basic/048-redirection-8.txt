@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "4.8 Redirection 8"
+#
+cat file > file2
+#
+# End of file

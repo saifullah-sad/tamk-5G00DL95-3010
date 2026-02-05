@@ -1,0 +1,11 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "4.5 Redirection 5"
+#
+The "< /var/log/dpkg.log" redirects the file into stdin.
+The command "less" reads from stdin.
+So the result of the file is shown inside less as if we ran:
+less /var/log/dpkg.log
+#
+# End of files

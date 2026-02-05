@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "5.3 Pipe 3"
+#
+man nano | col -b > nano-manual.txt
+#
+# End of file

@@ -1,0 +1,14 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "4.3 Redirection 3"
+#
+Command:
+echo 2 2> 2
+
+Explanation:
+"echo 2" sends the text "2" to stdout.
+The redirection "2> 2" redirects stderr (stream 2) into a file named "2".
+Since echo produces no stderr output, nothing is written into file "2", so the file is empty.
+
+# End of file

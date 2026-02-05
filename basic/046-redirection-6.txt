@@ -1,0 +1,11 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "4.6 Redirection 6"
+#
+"< ls" redirects file "ls" into stdin, but ls does not read stdin, so it is ignored.
+"> ls" redirects stdout into file "ls".
+Before ls runs, the shell truncates file "ls" to empty.
+Then ls outputs directory listing into the same file.
+#
+# End of file

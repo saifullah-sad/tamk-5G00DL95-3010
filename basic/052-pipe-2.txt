@@ -1,0 +1,12 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "5.2 Pipe 2"
+#
+echo sends the string "1 2 3" to stdout.
+The pipe "|" sends stdout of echo to stdin of cut.
+cut uses space (" ") as delimiter (-d).
+-f2 selects the second field.
+The output is:2
+#
+# End of file
