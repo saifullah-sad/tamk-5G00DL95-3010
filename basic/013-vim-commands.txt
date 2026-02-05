@@ -3,7 +3,6 @@
 #
 # Answer to exercise "1.3 Vim commands"
 #
-
 Beginning of line        = 0
 End of line              = $
 Deleting a word          = dw
@@ -14,5 +13,5 @@ Go to end of file        = G
 Copying line(s)          = yy / 3yy for 3 lines
 Copying a paragraph      = yap
 Turn on/off line numbers = :set number / :set nonumber
-
+#
 # End of file

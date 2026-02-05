@@ -16,5 +16,5 @@ set shiftwidth=4   " number of spaces used for each indentation level
 set softtabstop=4  " number of spaces a Tab feels like while editing
 set paste          " paste mode disables auto-indent and formatting
 set nolist         " do not display hidden characters like tabs or line ends
-
+#
 # End of file
