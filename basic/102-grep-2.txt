@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "10.2 Grep 2"
+#
+grep -E '^S[^,]*,.*2-[0-9]*' data.txt
+#
+# End of file

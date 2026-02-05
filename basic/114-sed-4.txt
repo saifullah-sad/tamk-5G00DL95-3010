@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "11.4 Sed 4"
+#
+sed '/Evelyn Jordan/d' names.txt
+#
+# End of file

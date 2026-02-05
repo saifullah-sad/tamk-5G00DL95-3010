@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "9.1 Sort 1"
+#
+sort -r -t',' -k1 data.txt
+Explanation: -r is reverse order, -t',' comma is the field separator, k1 is sort by first field.
+#
+# End of file

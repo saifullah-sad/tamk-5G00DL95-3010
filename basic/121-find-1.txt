@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "12.1 Find 1"
+#
+find ~/tmp -type f -name "*.txt"
+#
+# End of file

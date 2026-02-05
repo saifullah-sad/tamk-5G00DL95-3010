@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "12.2 Find 2"
+#
+find ~/tmp ~/doc -type f -name "document.pdf"
+#
+# End of file

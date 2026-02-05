@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "7.7 Tar 5"
+#
+tar -xjf ~/package.tar.bz2 -C ~ tmp/dir1/1.lst
+Explanation: "-x" is extract, "-j" is decompress bzip2, "-f" is archive file, "-C ~" is to extract relative to home
+and this only extracts "tmp/dir1/1.lst" without extracting the entire archive.
+#
+# End of file

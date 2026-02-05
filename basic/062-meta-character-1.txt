@@ -1,0 +1,11 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "6.2 Meta character 2"
+#
+echo "Time is $(date +%H:%M:%S)"
+The date command has a format of '+%H:%M:%S which returns the output of hours:minutes:seconds.
+$(...) is executed first so it inserts this output into the echo string.
+The result which tells the current time would be: Time is 04:42:11
+#
+# End of file

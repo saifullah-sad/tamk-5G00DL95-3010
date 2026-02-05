@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "12.3 Find 3"
+#
+find ~/tmp -type f -size +10c
+#
+# End of file

@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "12.6 Find 6"
+#
+find ~/tmp -type f \( -name "*.tmp" -o -name "*.bup" -o -name "*.bak" -o -name "*~" -o -name "*#" \)
+#
+# End of file

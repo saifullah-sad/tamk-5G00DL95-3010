@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "12.7 Find 7"
+#
+find ~/tmp -type f -perm -004
+#
+# End of file

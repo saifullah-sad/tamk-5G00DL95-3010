@@ -1,0 +1,13 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "7.3 Tar 1"
+#
+To create a package "~/package.tar.gz" by backing up everything under "~/tmp/" and its sub directories using Gzip compression algorithm, you can use the following command:
+tar -czf ~/package.tar.gz -C ~ tmp
+Explanation: tar is the archive utility, -c is create a new archive
+-z is compress with gzip, -f ~/package.tar.gz means write an output to this file
+-C ~ tmp is change directory to home first then include tmp.
+You can check the contents by using tar -tzf ~/package.tar.gz
+#
+# End of file

@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "7.5 Tar 3"
+#
+tar -xzf ~/package.tar.gz -C /tmp
+Explanation: -x is used to extract the files, -z is for gzip compression, -f is to specify the archive
+and -c /tmp is to change to /tmp directiry before extraction.
+#
+# End of file

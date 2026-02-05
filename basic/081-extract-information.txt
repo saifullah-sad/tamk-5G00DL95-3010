@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "8.1 Extract information"
+#
+date | awk '{print $7}'
+awk '{print $7}'
+Explanation: It splits by spaces and prints 7th field
+#
+# End of file

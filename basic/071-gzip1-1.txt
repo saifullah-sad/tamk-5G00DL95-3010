@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "7.1 Gzip1 1"
+#
+gzip -9 file.txt
+#
+# End of file

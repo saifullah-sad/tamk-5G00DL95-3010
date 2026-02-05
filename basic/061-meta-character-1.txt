@@ -1,0 +1,16 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "6.1 Meta character 1"
+#
+echo "The Result of this command is $(ls -la | wc -l) "
+$(...) is command substitution. The shell executes the command inside it first.
+"ls -la" lists all files in long format and sends the output to stdout.
+The pipe "|" sends the stdout of ls to the stdin of "wc -l".
+"wc -l" counts the number of lines it receives and outputs a number to stdout.
+The shell replaces "$(ls -la | wc -l)" with that number.
+echo prints the final string to stdout.
+Output:The Result of this command is N
+where N is the number of lines in the "ls -la" output.
+#
+# End of file

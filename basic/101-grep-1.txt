@@ -1,0 +1,9 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "10.1 Grep 1"
+#
+To search all phone numbers that start with the number 3. You can use the following command.
+grep -E '[[:space:]]4-[0-9]{3}' data.txt
+#
+# End of file

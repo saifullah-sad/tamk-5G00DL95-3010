@@ -1,0 +1,8 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "8.2 Manipulate data 1"
+#
+cut -d' ' -f1 names.txt | sort | uniq
+#
+# End of file
