@@ -1,0 +1,26 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "13.1 The Shell startup environment"
+#
+Environment variables from bash:
+1. EDITOR  
+EDITOR defines the default text editor used when a program needs you to edit something (for example git, crontab, etc.).
+To set it temporarily for nano:
+export EDITOR=nano
+To set it permanently:
+echo 'export EDITOR=nano' >> ~/.bashrc
+After that, restart the terminal or run:
+source ~/.bashrc
+
+2. PATH  
+PATH is a list of directories that Bash searches to find executable programs. When you type commands like ls or python, Bash searches these directories in order.
+To set it temporarily:
+export PATH="$HOME/bin:$PATH"
+This adds your personal bin directory to the beginning of PATH.
+To set it permanently:
+echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
+After that, restart the terminal or run:
+source ~/.bashrc
+#
+# End of file

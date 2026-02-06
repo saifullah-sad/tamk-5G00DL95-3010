@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "3.2 The Shell prompt"
+#
+Bash prompt is controlled by $PS1 variable. TO achieve the format displayed,
+you can use export PS1='[\h \! \t] \w\$ ' to set it temporarily.
+To make it permanent you can do, echo "export PS1='[\h \! \t] \w\$ '" >> ~/.bashrc
+#
+# End of file

@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "14.3 User command 3"
+#
+_ps() {
+    ps -u "$USER"
+}
+#
+# End of file

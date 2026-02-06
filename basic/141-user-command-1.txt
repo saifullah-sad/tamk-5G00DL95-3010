@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "14.1 User command 1"
+#
+_lsd() {
+    ls -l | grep '^d'
+}
+#
+# End of file

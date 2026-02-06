@@ -1,0 +1,10 @@
+# Author: Md Saifullah Mansure Sad <mdsaifullahmansure.sad@tuni.fi>
+# Date: 2026-02-05
+#
+# Answer to exercise "14.2 User command 2"
+#
+_lsf() {
+    ls -l | grep '^-'
+}
+#
+# End of file
