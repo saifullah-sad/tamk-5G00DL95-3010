@@ -7,3 +7,4 @@ A and B both redirect stderr (2) to error.log.
 In C, "cat < qwerty" tries to open file "qwerty" for stdin before cat runs, so the error occurs in the shell, not in cat, and is not redirected.
 #
 # End of file
+

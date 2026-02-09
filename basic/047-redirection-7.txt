@@ -9,3 +9,4 @@
 So file2 contains the contents of "file" followed by "hello".
 #
 # End of file
+

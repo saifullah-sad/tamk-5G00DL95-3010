@@ -6,3 +6,4 @@
 find ~/tmp ~/doc -type f -name "document.pdf"
 #
 # End of file
+

@@ -6,3 +6,4 @@
 find ~/tmp -type f \( -name "*.tmp" -o -name "*.bup" -o -name "*.bak" -o -name "*~" -o -name "*#" \)
 #
 # End of file
+

@@ -9,3 +9,4 @@ Before ls runs, the shell truncates file "ls" to empty.
 Then ls outputs directory listing into the same file.
 #
 # End of file
+

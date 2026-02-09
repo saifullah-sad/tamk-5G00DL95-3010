@@ -6,3 +6,4 @@
 man nano | col -b > nano-manual.txt
 #
 # End of file
+

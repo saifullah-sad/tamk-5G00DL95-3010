@@ -6,3 +6,4 @@
 grep -E ", [^[:space:]]*a[^[:space:]]*" data.txt
 #
 # End of file
+

@@ -6,3 +6,4 @@
 find ~/tmp -type f -perm -004
 #
 # End of file
+

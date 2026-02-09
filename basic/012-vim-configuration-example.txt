@@ -18,3 +18,4 @@ set paste          " paste mode disables auto-indent and formatting
 set nolist         " do not display hidden characters like tabs or line ends
 #
 # End of file
+

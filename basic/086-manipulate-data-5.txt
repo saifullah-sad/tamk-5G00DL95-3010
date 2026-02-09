@@ -7,3 +7,4 @@ paste 1.txt 2.txt
 paste comines two files side by side
 #
 # End of file
+

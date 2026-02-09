@@ -6,3 +6,4 @@
 gzip -9 file.txt
 #
 # End of file
+

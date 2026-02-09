@@ -6,3 +6,4 @@
 sed -E 's/^([^ ]+) ([^ ]+)/\2 \1/' names.txt
 #
 # End of file
+

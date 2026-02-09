@@ -6,3 +6,4 @@
 qwerty 2>error.log
 #
 # End of file
+
