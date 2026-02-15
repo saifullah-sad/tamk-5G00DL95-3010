@@ -20,4 +20,3 @@ mv dir1/dir2/1.tmp dir1/dir2/here/
 mv dir1/dir2/2.tmp dir1/dir2/here/
 #
 # End of file
-
