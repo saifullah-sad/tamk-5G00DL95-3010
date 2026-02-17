@@ -6,4 +6,3 @@
 sort -k2 data.txt
 #
 # End of file
-

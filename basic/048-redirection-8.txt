@@ -6,4 +6,3 @@
 cat file > file2
 #
 # End of file
-

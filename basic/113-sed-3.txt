@@ -6,4 +6,3 @@
 sed -E '/^Ike / s/[0-9]{3}-[0-9]{4}/234-0123/' names.txt
 #
 # End of file
-

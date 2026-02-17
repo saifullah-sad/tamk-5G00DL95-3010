@@ -7,4 +7,3 @@ sort -r -t',' -k1 data.txt
 Explanation: -r is reverse order, -t',' comma is the field separator, k1 is sort by first field.
 #
 # End of file
-

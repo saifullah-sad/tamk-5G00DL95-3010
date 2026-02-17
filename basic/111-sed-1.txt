@@ -6,4 +6,3 @@
 sed -E 's/[[:space:]]+/ /g' names.txt
 #
 # End of file
-

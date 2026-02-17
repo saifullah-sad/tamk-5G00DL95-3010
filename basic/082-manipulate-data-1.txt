@@ -6,4 +6,3 @@
 cut -d' ' -f1 names.txt | sort | uniq
 #
 # End of file
-

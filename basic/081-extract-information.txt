@@ -8,4 +8,3 @@ awk '{print $7}'
 Explanation: It splits by spaces and prints 7th field
 #
 # End of file
-

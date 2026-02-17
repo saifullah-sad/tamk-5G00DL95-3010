@@ -8,4 +8,3 @@ Explanation: "-x" is extract, "-j" is decompress bzip2, "-f" is archive file, "-
 and this only extracts "tmp/dir1/1.lst" without extracting the entire archive.
 #
 # End of file
-

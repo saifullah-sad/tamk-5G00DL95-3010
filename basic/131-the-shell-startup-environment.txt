@@ -24,4 +24,3 @@ After that, restart the terminal or run:
 source ~/.bashrc
 #
 # End of file
-

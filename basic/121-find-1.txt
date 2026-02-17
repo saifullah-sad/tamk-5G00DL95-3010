@@ -6,4 +6,3 @@
 find ~/tmp -type f -name "*.txt"
 #
 # End of file
-

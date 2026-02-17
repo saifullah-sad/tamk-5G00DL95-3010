@@ -6,4 +6,3 @@
 find ~/tmp -type f -mtime +1
 #
 # End of file
-

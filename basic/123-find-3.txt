@@ -6,4 +6,3 @@
 find ~/tmp -type f -size +10c
 #
 # End of file
-

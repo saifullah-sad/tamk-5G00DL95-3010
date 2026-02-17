@@ -8,4 +8,3 @@ Explanation: -x is used to extract the files, -z is for gzip compression, -f is 
 and -c /tmp is to change to /tmp directiry before extraction.
 #
 # End of file
-

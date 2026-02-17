@@ -6,4 +6,3 @@
 grep -E '.*-[5-6][0-9]{3}' data.txt
 #
 # End of file
-

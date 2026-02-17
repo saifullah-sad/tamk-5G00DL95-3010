@@ -11,4 +11,3 @@ Explanation: tar is the archive utility, -c is create a new archive
 You can check the contents by using tar -tzf ~/package.tar.gz
 #
 # End of file
-

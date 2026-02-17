@@ -9,4 +9,3 @@ $(...) is executed first so it inserts this output into the echo string.
 The result which tells the current time would be: Time is 04:42:11
 #
 # End of file
-

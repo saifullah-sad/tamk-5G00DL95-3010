@@ -8,4 +8,3 @@ Explanation: "-c" is create archive, "-j" is compress using bzip2
 "-f ~/package.tar.bz2" is the output file. and "-C ~ tmp" is to include tmp folder with relative paths.
 #
 # End of file
-

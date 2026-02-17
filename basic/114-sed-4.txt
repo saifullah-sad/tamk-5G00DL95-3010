@@ -6,4 +6,3 @@
 sed '/Evelyn Jordan/d' names.txt
 #
 # End of file
-
